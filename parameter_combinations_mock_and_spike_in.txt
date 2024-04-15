@@ -1,0 +1,648 @@
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 180 --trunclenr 150 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 180 --trunclenr 150 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 180 --trunclenr 150 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 180 --trunclenr 150 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 137 --trunclenr 137 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 137 --trunclenr 137 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 137 --trunclenr 137 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 137 --trunclenr 137 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 150 --trunclenr 125 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 150 --trunclenr 125 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 150 --trunclenr 125 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 150 --trunclenr 125 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 35 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 35 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 35 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 35 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 35 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 35 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 35 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 35 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 35 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 35 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 35 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 35 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 25 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 25 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 25 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 25 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 25 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 25 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 25 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 25 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 25 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 25 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 25 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 25 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 5 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 5 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 5 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 5 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 5 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 5 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 5 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 5 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 5 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 5 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 5 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 5 --max_ee 2 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 180 --trunclenr 150 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 180 --trunclenr 150 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 180 --trunclenr 150 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 180 --trunclenr 150 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 137 --trunclenr 137 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 137 --trunclenr 137 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 137 --trunclenr 137 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 137 --trunclenr 137 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 150 --trunclenr 125 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 150 --trunclenr 125 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 150 --trunclenr 125 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 150 --trunclenr 125 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 35 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 35 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 35 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 35 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 35 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 35 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 35 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 35 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 35 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 35 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 35 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 35 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 25 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 25 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 25 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 25 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 25 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 25 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 25 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 25 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 25 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 25 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 25 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 25 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 5 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 5 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 5 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 5 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 5 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 5 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 5 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 5 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 5 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 5 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 5 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 5 --max_ee 1 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 180 --trunclenr 150 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 180 --trunclenr 150 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 180 --trunclenr 150 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 180 --trunclenr 150 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 137 --trunclenr 137 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 137 --trunclenr 137 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 137 --trunclenr 137 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 137 --trunclenr 137 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 150 --trunclenr 125 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 150 --trunclenr 125 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 150 --trunclenr 125 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 150 --trunclenr 125 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 35 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 35 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 35 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 35 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 35 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 35 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 35 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 35 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 35 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 35 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 35 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 35 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 25 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 25 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 25 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 25 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 25 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 25 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 25 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 25 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 25 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 25 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 25 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 25 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 5 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 5 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 5 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 5 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 5 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 5 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 5 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 5 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 5 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 5 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 5 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 5 --max_ee 5 --sample_inference pooled 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 180 --trunclenr 150 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 180 --trunclenr 150 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 180 --trunclenr 150 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 180 --trunclenr 150 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 137 --trunclenr 137 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 137 --trunclenr 137 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 137 --trunclenr 137 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 137 --trunclenr 137 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 150 --trunclenr 125 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 150 --trunclenr 125 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 150 --trunclenr 125 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 150 --trunclenr 125 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 35 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 35 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 35 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 35 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 35 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 35 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 35 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 35 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 35 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 35 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 35 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 35 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 25 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 25 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 25 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 25 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 25 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 25 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 25 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 25 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 25 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 25 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 25 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 25 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 5 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 5 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 5 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 5 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 5 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 5 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 5 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 5 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 5 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 5 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 5 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 5 --max_ee 2 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 180 --trunclenr 150 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 180 --trunclenr 150 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 180 --trunclenr 150 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 180 --trunclenr 150 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 137 --trunclenr 137 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 137 --trunclenr 137 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 137 --trunclenr 137 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 137 --trunclenr 137 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 150 --trunclenr 125 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 150 --trunclenr 125 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 150 --trunclenr 125 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 150 --trunclenr 125 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 35 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 35 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 35 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 35 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 35 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 35 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 35 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 35 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 35 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 35 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 35 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 35 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 25 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 25 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 25 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 25 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 25 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 25 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 25 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 25 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 25 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 25 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 25 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 25 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 5 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 5 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 5 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 5 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 5 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 5 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 5 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 5 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 5 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 5 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 5 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 5 --max_ee 1 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 180 --trunclenr 150 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 180 --trunclenr 150 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 180 --trunclenr 150 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 180 --trunclenr 150 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 137 --trunclenr 137 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 137 --trunclenr 137 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 137 --trunclenr 137 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 137 --trunclenr 137 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 150 --trunclenr 125 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 150 --trunclenr 125 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 150 --trunclenr 125 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 150 --trunclenr 125 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 35 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 35 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 35 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 35 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 35 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 35 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 35 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 35 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 35 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 35 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 35 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 35 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 25 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 25 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 25 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 25 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 25 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 25 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 25 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 25 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 25 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 25 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 25 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 25 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 5 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 5 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 5 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 5 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 5 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 5 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 5 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 5 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 5 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 5 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 5 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 5 --max_ee 5 --sample_inference pseudo 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 180 --trunclenr 150 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 180 --trunclenr 150 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 180 --trunclenr 150 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 180 --trunclenr 150 --max_ee 2 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 2 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 2 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 2 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 137 --trunclenr 137 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 137 --trunclenr 137 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 137 --trunclenr 137 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 137 --trunclenr 137 --max_ee 2 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 2 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 2 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 2 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 150 --trunclenr 125 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 150 --trunclenr 125 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 150 --trunclenr 125 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 150 --trunclenr 125 --max_ee 2 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 2 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 2 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 2 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 35 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 35 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 35 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 35 --max_ee 2 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 35 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 35 --max_ee 2 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 35 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 35 --max_ee 2 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 35 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 35 --max_ee 2 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 35 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 35 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 25 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 25 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 25 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 25 --max_ee 2 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 25 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 25 --max_ee 2 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 25 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 25 --max_ee 2 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 25 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 25 --max_ee 2 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 25 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 25 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 5 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 5 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 5 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 5 --max_ee 2 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 5 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 5 --max_ee 2 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 5 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 5 --max_ee 2 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 5 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 5 --max_ee 2 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 5 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 5 --max_ee 2 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 180 --trunclenr 150 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 180 --trunclenr 150 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 180 --trunclenr 150 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 180 --trunclenr 150 --max_ee 1 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 1 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 1 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 1 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 137 --trunclenr 137 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 137 --trunclenr 137 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 137 --trunclenr 137 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 137 --trunclenr 137 --max_ee 1 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 1 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 1 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 1 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 150 --trunclenr 125 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 150 --trunclenr 125 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 150 --trunclenr 125 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 150 --trunclenr 125 --max_ee 1 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 1 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 1 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 1 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 35 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 35 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 35 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 35 --max_ee 1 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 35 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 35 --max_ee 1 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 35 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 35 --max_ee 1 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 35 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 35 --max_ee 1 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 35 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 35 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 25 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 25 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 25 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 25 --max_ee 1 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 25 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 25 --max_ee 1 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 25 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 25 --max_ee 1 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 25 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 25 --max_ee 1 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 25 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 25 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 5 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 5 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 5 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 5 --max_ee 1 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 5 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 5 --max_ee 1 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 5 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 5 --max_ee 1 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 5 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 5 --max_ee 1 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 5 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 5 --max_ee 1 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 180 --trunclenr 150 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 180 --trunclenr 150 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 180 --trunclenr 150 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 180 --trunclenr 150 --max_ee 5 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 5 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 5 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 5 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 180 --trunclenr 150 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 137 --trunclenr 137 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 137 --trunclenr 137 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 137 --trunclenr 137 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 137 --trunclenr 137 --max_ee 5 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 5 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 5 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 5 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 137 --trunclenr 137 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 150 --trunclenr 125 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunclenf 150 --trunclenr 125 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 150 --trunclenr 125 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunclenf 150 --trunclenr 125 --max_ee 5 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 5 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 5 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 5 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunclenf 150 --trunclenr 125 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 35 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 35 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 35 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 35 --max_ee 5 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 35 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 35 --max_ee 5 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 35 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 35 --max_ee 5 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 35 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 35 --max_ee 5 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 35 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 35 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 25 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 25 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 25 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 25 --max_ee 5 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 25 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 25 --max_ee 5 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 25 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 25 --max_ee 5 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 25 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 25 --max_ee 5 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 25 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 25 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 5 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer true --trunc_qmin 5 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 5 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer true --trunc_qmin 5 --max_ee 5 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 5 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 5 --max_ee 5 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 5 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0 --double_primer false --trunc_qmin 5 --max_ee 5 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 5 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 3 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 5 --max_ee 5 --sample_inference independent 
+--retain_untrimmed true --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 5 --max_ee 5 --sample_inference independent 
+--retain_untrimmed false --cutadapt_min_overlap 15 --cutadapt_max_error_rate 0.1 --double_primer false --trunc_qmin 5 --max_ee 5 --sample_inference independent 

@@ -1,0 +1,54 @@
+--trunclenf 180 --trunclenr 150 --max_ee 2 --sample_inference pooled --skip_cutadapt true
+--trunclenf 137 --trunclenr 137 --max_ee 2 --sample_inference pooled --skip_cutadapt true
+--trunclenf 150 --trunclenr 125 --max_ee 2 --sample_inference pooled --skip_cutadapt true
+--trunc_qmin 35 --max_ee 2 --sample_inference pooled --skip_cutadapt true
+--trunc_qmin 25 --max_ee 2 --sample_inference pooled --skip_cutadapt true
+--trunc_qmin 5 --max_ee 2 --sample_inference pooled --skip_cutadapt true
+--trunclenf 180 --trunclenr 150 --max_ee 1 --sample_inference pooled --skip_cutadapt true
+--trunclenf 137 --trunclenr 137 --max_ee 1 --sample_inference pooled --skip_cutadapt true
+--trunclenf 150 --trunclenr 125 --max_ee 1 --sample_inference pooled --skip_cutadapt true
+--trunc_qmin 35 --max_ee 1 --sample_inference pooled --skip_cutadapt true
+--trunc_qmin 25 --max_ee 1 --sample_inference pooled --skip_cutadapt true
+--trunc_qmin 5 --max_ee 1 --sample_inference pooled --skip_cutadapt true
+--trunclenf 180 --trunclenr 150 --max_ee 5 --sample_inference pooled --skip_cutadapt true
+--trunclenf 137 --trunclenr 137 --max_ee 5 --sample_inference pooled --skip_cutadapt true
+--trunclenf 150 --trunclenr 125 --max_ee 5 --sample_inference pooled --skip_cutadapt true
+--trunc_qmin 35 --max_ee 5 --sample_inference pooled --skip_cutadapt true
+--trunc_qmin 25 --max_ee 5 --sample_inference pooled --skip_cutadapt true
+--trunc_qmin 5 --max_ee 5 --sample_inference pooled --skip_cutadapt true
+--trunclenf 180 --trunclenr 150 --max_ee 2 --sample_inference pseudo --skip_cutadapt true
+--trunclenf 137 --trunclenr 137 --max_ee 2 --sample_inference pseudo --skip_cutadapt true
+--trunclenf 150 --trunclenr 125 --max_ee 2 --sample_inference pseudo --skip_cutadapt true
+--trunc_qmin 35 --max_ee 2 --sample_inference pseudo --skip_cutadapt true
+--trunc_qmin 25 --max_ee 2 --sample_inference pseudo --skip_cutadapt true
+--trunc_qmin 5 --max_ee 2 --sample_inference pseudo --skip_cutadapt true
+--trunclenf 180 --trunclenr 150 --max_ee 1 --sample_inference pseudo --skip_cutadapt true
+--trunclenf 137 --trunclenr 137 --max_ee 1 --sample_inference pseudo --skip_cutadapt true
+--trunclenf 150 --trunclenr 125 --max_ee 1 --sample_inference pseudo --skip_cutadapt true
+--trunc_qmin 35 --max_ee 1 --sample_inference pseudo --skip_cutadapt true
+--trunc_qmin 25 --max_ee 1 --sample_inference pseudo --skip_cutadapt true
+--trunc_qmin 5 --max_ee 1 --sample_inference pseudo --skip_cutadapt true
+--trunclenf 180 --trunclenr 150 --max_ee 5 --sample_inference pseudo --skip_cutadapt true
+--trunclenf 137 --trunclenr 137 --max_ee 5 --sample_inference pseudo --skip_cutadapt true
+--trunclenf 150 --trunclenr 125 --max_ee 5 --sample_inference pseudo --skip_cutadapt true
+--trunc_qmin 35 --max_ee 5 --sample_inference pseudo --skip_cutadapt true
+--trunc_qmin 25 --max_ee 5 --sample_inference pseudo --skip_cutadapt true
+--trunc_qmin 5 --max_ee 5 --sample_inference pseudo --skip_cutadapt true
+--trunclenf 180 --trunclenr 150 --max_ee 2 --sample_inference independent --skip_cutadapt true
+--trunclenf 137 --trunclenr 137 --max_ee 2 --sample_inference independent --skip_cutadapt true
+--trunclenf 150 --trunclenr 125 --max_ee 2 --sample_inference independent --skip_cutadapt true
+--trunc_qmin 35 --max_ee 2 --sample_inference independent --skip_cutadapt true
+--trunc_qmin 25 --max_ee 2 --sample_inference independent --skip_cutadapt true
+--trunc_qmin 5 --max_ee 2 --sample_inference independent --skip_cutadapt true
+--trunclenf 180 --trunclenr 150 --max_ee 1 --sample_inference independent --skip_cutadapt true
+--trunclenf 137 --trunclenr 137 --max_ee 1 --sample_inference independent --skip_cutadapt true
+--trunclenf 150 --trunclenr 125 --max_ee 1 --sample_inference independent --skip_cutadapt true
+--trunc_qmin 35 --max_ee 1 --sample_inference independent --skip_cutadapt true
+--trunc_qmin 25 --max_ee 1 --sample_inference independent --skip_cutadapt true
+--trunc_qmin 5 --max_ee 1 --sample_inference independent --skip_cutadapt true
+--trunclenf 180 --trunclenr 150 --max_ee 5 --sample_inference independent --skip_cutadapt true
+--trunclenf 137 --trunclenr 137 --max_ee 5 --sample_inference independent --skip_cutadapt true
+--trunclenf 150 --trunclenr 125 --max_ee 5 --sample_inference independent --skip_cutadapt true
+--trunc_qmin 35 --max_ee 5 --sample_inference independent --skip_cutadapt true
+--trunc_qmin 25 --max_ee 5 --sample_inference independent --skip_cutadapt true
+--trunc_qmin 5 --max_ee 5 --sample_inference independent --skip_cutadapt true 
